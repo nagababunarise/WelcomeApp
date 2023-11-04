@@ -1,0 +1,30 @@
+.bg-container {
+  background-color: #1e293b;
+  height: 100vh;
+  font-family: 'Roboto';
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Bree Serif';
+}
+.heading {
+  color: #f0bb03;
+  font-size: 100px;
+}
+.paragraph {
+  color: white;
+  font-size: 60px;
+  font-family: 'Bree Serif';
+}
+.button {
+  color: black;
+  background-color: white;
+  border-width: 0px;
+  height: 50px;
+  width: 120px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-family: 'Bree Serif';
+}
